@@ -59,7 +59,7 @@ education:
   - area: PhD Economics
     institution: University of Nottingham
     date_start: 2011-10-01
-    date_end: 2016-06-31
+    date_end: 2016-07-31
     #summary: |
     #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     #button:

@@ -28,7 +28,7 @@ tags:
 - Conflict
 - Network
 - Lab Experiment
-featured: true
+featured: false
 
 links:
  - name: "Appendix"

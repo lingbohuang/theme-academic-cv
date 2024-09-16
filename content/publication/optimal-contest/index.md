@@ -11,10 +11,9 @@ doi: ""
 publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["manuscript"]
 
 # Publication name and optional abbreviated publication name.
 publication: "R&R Management Science"
@@ -25,7 +24,8 @@ abstract: "This paper examines the optimal contest design in the presence of neg
 # Summary. An optional shortened abstract.
 
 tags:
-- Source Themes
+- Contest
+- Lab Experiment
 featured: false
 
 url_pdf: uploads/.pdf

@@ -12,10 +12,9 @@ doi: "10.1016/j.geb.2024.05.009"
 publishDate: "2024-06-08T00:00:00Z"
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Games and Economic Behavior*, Volume 146, July 2024, 255-276"
@@ -26,8 +25,10 @@ abstract: "In a social network in which friendly and rival bilateral links can b
 # Summary. An optional shortened abstract.
 
 tags:
-- Source Themes
-featured: false
+- Conflict
+- Network
+- Lab Experiment
+featured: true
 
 links:
  - name: "Appendix"

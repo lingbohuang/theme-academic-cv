@@ -11,10 +11,9 @@ doi: "10.1016/j.geb.2023.08.018"
 publishDate: "2023-09-01T00:00:00Z"
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Games and Economic Behavior*, Volume 142, November 2023, 552-569"
@@ -25,7 +24,9 @@ abstract: "The rise of a new power may lead the dominant power to seek a prevent
 # Summary. An optional shortened abstract.
 
 tags:
-- Source Themes
+- Conflict
+- Bargaining Game
+- Lab Experiment
 featured: true
 
 links:

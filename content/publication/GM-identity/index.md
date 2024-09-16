@@ -11,10 +11,9 @@ doi: "10.3390/g9030065"
 publishDate: "2023-02-08T00:00:00Z"
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Games*, Volume 9, Issue 3, September 2018, Article 65"
@@ -25,7 +24,10 @@ abstract: "We experimentally study how people resolve a tension between favoriti
 #summary:
 
 tags:
-- Source Themes
+- Cooperation
+- Social Identity
+- Fairness
+- Lab Experiment
 featured: false
 
 url_pdf: uploads/2018-GM-identity.pdf

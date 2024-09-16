@@ -11,10 +11,9 @@ doi: "10.1016/j.jebo.2021.04.019"
 publishDate: "2023-02-08T00:00:00Z"
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Economic Behavior & Organization*, Volume 187, July 2021, 192-204"
@@ -25,7 +24,8 @@ abstract: "Despite the efficacy of Pigouvian taxes, governments often find them 
 #summary:
 
 tags:
-- Source Themes
+- Environment
+- Lab Experiment
 featured: false
 
 links:

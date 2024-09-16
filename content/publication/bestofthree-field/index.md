@@ -11,10 +11,9 @@ doi: "10.1016/j.joep.2018.04.007"
 publishDate: "2023-02-08T00:00:00Z"
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Economic Psychology*, Volume 75, Part B, December 2019, 102070"
@@ -25,7 +24,8 @@ abstract: "Individuals may respond differently to their own past performance tha
 #summary:
 
 tags:
-- Source Themes
+- Contest
+- Field Data
 featured: false
 
 url_pdf: uploads/2019-bestofthree-field.pdf

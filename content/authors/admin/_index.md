@@ -10,8 +10,8 @@ first_name: Lingbo
 last_name: Huang
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,7 +24,7 @@ role: Professor of Economics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Center for Economics Research
+  - name: Center for Economic Research
     url: http://www.cer.sdu.edu.cn/index.htm
   - name: Shandong University
 

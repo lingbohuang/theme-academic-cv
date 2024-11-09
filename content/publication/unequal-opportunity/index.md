@@ -5,7 +5,7 @@ authors:
 - admin
 - Jaimie W. Lien
 date: "2024-09-01T00:00:00Z"
-doi: ""
+doi: "10.1093/ej/ueae099"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Economic Journal, Conditionally Accepted"
+publication: "*Economic Journal*, Accepted"
 publication_short: ""
 
 abstract: "A meritocratic fairness ideal typically asserts that income inequality is justifiable if it arises from differences in performance rather than mere luck. In this study, we present experimental evidence that reveals how merit judgments are influenced by the sources of performance differentials, while holding fixed the underlying impact on incentives to perform. Drawing inspiration from real-world factors that create inequality, we investigate unequal opportunities in education and employment that impact performance. Contrary to some earlier findings suggesting that merit judgments are unaffected by unequal circumstances, our study demonstrates that individuals’ redistributive behaviour is responsive to both the nature and extent of these unequal opportunities. This research thus provides fresh insights into the nuanced factors that motivate people to endorse income redistribution."

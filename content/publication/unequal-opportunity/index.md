@@ -4,7 +4,7 @@ authors:
 - Lu Dong
 - admin
 - Jaimie W. Lien
-date: "2024-09-01T00:00:00Z"
+date: "2024-11-01T00:00:00Z"
 doi: "10.1093/ej/ueae099"
 
 # Schedule page publish date (NOT publication's date).
@@ -31,10 +31,10 @@ featured: true
 
 links:
  - name: "Appendix"
-   url: "uploads/2024-unequal-opportunity-app.pdf"
-url_pdf: uploads/2024-unequal-opportunity.pdf
+   url: "uploads/2025-unequal-opportunity-app.pdf"
+url_pdf: uploads/2025-unequal-opportunity.pdf
 url_code: ''
-url_dataset: 'uploads/2024-unequal-opportunity-data.zip'
+url_dataset: 'uploads/2025-unequal-opportunity-data.zip'
 url_poster: ''
 url_project: ''
 url_slides: ''

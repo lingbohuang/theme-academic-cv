@@ -19,7 +19,7 @@ publication_types: ["manuscript"]
 publication: "R&R Production and Operations Management"
 publication_short: ""
 
-abstract: "Many goods and services are allocated through various booking systems. Queue-based booking systems are often thought to allocate goods more efficiently than random allocation because the time spent queuing signals an agent's valuation. This paper demonstrates that the opportunity cost of queuing time can be a significant efficiency loss in queue-based systems. To quantify different sources of efficiency loss, we first develop an experimental framework where agents participate in both a booking system and a production activity. Using a queue-based booking system, our lab experiments confirm that the efficiency loss due to the opportunity cost of queuing time dominates other sources of efficiency loss. However, a lottery-based booking system almost eliminates this efficiency loss. We further develop a novel dual-track booking system that allows participants to choose their preferred booking track, and find that most prefer the lottery track to the queue track."
+abstract: "Queue-based rules for allocating scarce goods are widely utilized in booking systems due to their perceived efficiency. However, empirical investigations into the externalities and opportunity costs of queuing in multitasking scenarios are limited. This paper reports on two laboratory experiments that compare a queue-based rule with a lottery-based rule by quantifying their respective efficiency losses. Our findings indicate that while the queue-based rule demonstrates superior allocative efficiency, it incurs significant losses in productive efficiency attributed to opportunity costs of time. In contrast, the lottery-based rule exhibits improved overall efficiency with minimal time spent on the booking system. Additionally, under the queue-based rule, participants display bimodal behavior, either engaging fully or abstaining from the booking system, influenced by their time valuations. Further, while providing queue length information facilitates more efficient coordination, it also leads to more frequent task-switching behavior that negates any productive efficiency gain from improved coordination. This research underscores the crucial need to reevaluate allocation mechanisms in booking systems, taking into account their externalities."
 
 # Summary. An optional shortened abstract.
 
@@ -29,7 +29,10 @@ tags:
 - Appointment System
 featured: false
 
-url_pdf: uploads/2023-booking.pdf
+links:
+ - name: "Appendix"
+   url: "uploads/2025-booking-app.pdf"
+url_pdf: uploads/2025-booking.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

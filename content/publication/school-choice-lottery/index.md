@@ -1,5 +1,5 @@
 ---
-title: "Making school choice lotteries transparents"
+title: "Making School Choice Lotteries Transparent"
 authors:
 - admin
 - Jun Zhang

@@ -28,7 +28,7 @@ abstract: "We investigate how information about recipients' characteristics affe
 tags:
 - Charitable Giving
 - Lab Experiment
-featured: true
+featured: false
 
 links:
  - name: "Appendix"

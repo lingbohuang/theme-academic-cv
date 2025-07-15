@@ -26,7 +26,7 @@ tags:
 - Geopolitical Risk
 - Macroeconomic Expectations
 - Survey Experiment
-featured: true
+featured: false
 
 
 url_pdf: uploads/.pdf

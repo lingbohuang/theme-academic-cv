@@ -19,7 +19,7 @@ publication_types: ["manuscript"]
 # Publication name and optional abbreviated publication name.
 publication: "R&R Economic Inquiry"
 publication_short: ""
-abstract: "We examine how voters decide whether to impose influence on others’ attitudes towards policies in the context of Pigouvian taxation. Data from a controlled laboratory experiment show that people in general are reluctant to stand up to persuade others. Among those who are willing, both tax supporters and objectors are equally likely to volunteer and are equally persuasive. As a result, the overall negative attitude against Pigouvian taxes remains. Interestingly, more polarized views rather than information advantage increase the probability to stand up as first voters, irrespective of what those views are. These findings offer an explanation and suggestions to address the continuing low public support for social-welfare-enhancing tax policies."
+abstract: "We examine how voters choose to influence others’ attitudes toward policy, focusing on the context of Pigouvian taxation. Data from a controlled laboratory experiment show that individuals are generally reluctant to stand up and persuade others. Among those who do, both tax supporters and objectors are equally likely to volunteer—and equally persuasive. As a result, overall negative attitudes toward Pigouvian taxes persist. Moreover, it is the strength of individuals’ initial views, rather than an informational advantage, that increases the likelihood of self-nomination as first voters, regardless of the direction of those views. These findings help explain the enduring lack of public support for welfare-enhancing tax policies and suggest avenues for addressing it."
 
 # Summary. An optional shortened abstract.
 #summary:

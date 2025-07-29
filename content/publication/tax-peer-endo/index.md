@@ -29,10 +29,10 @@ tags:
 - Lab Experiment
 featured: false
 
-#links:
-# - name: "Appendix"
-#   url: "uploads/2021-taxpeer-app.pdf"
-url_pdf: uploads/.pdf
+links:
+ - name: "Appendix"
+   url: "uploads/2025-taxpeer-endo-app.pdf"
+url_pdf: uploads/2025-taxpeer-endo.pdf.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

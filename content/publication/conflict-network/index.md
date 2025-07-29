@@ -32,7 +32,7 @@ featured: false
 
 links:
  - name: "Appendix"
-   url: "uploads/2024-conflict-networ-app.pdf"
+   url: "uploads/2024-conflict-network-app.pdf"
 url_pdf: uploads/2024-conflict-network.pdf
 url_code: ''
 url_dataset: ''

@@ -33,7 +33,7 @@ links:
    url: "uploads/2025-optimal-contest-app.pdf"
 url_pdf: uploads/2025-optimal-contest.pdf
 url_code: ''
-url_dataset: ''
+url_dataset: 'uploads/2025-optimal-contest-data.zip'
 url_poster: ''
 url_project: ''
 url_slides: ''

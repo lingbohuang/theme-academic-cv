@@ -1,5 +1,5 @@
 ---
-title: "The Efficacy of Communication in Bargaining Under the Shadow of Conflict: An Experiment"
+title: "Communication in Bargaining Under the Shadow of Conflict: An Experiment"
 authors:
 - Lu Dong
 - admin
@@ -18,7 +18,7 @@ publication_types: ["manuscript"]
 publication: ""
 publication_short: ""
 
-abstract: "We experimentally study how individuals strategically use communication to signal strength or weakness in bargaining under the shadow of conflict. Using a two-stage model that combines a Nash demand game with a Tullock contest, we analyze both complete and asymmetric information settings. Experimental results show that asymmetric information increases conflict and incentivizes bluffing, with weak-type individuals often imitating the strong by making high demands. One-way communication encourages weak-type players to send bluffing messages about their fighting strength and make high demands accordingly; their opponents respond by partially conceding. Strong-type players sometimes feign weakness by understating their strength while still making high demands; however, this strategy does not improve their payoffs. Our findings highlight the potentially adverse impact of strategic messaging on bargaining efficiency."
+abstract: "We experimentally study how pre-play communication shapes bargaining under the shadow of conflict. In a two-stage game that combines a Nash demand bargaining with a Tullock contest, we compare complete and asymmetric information settings and allow one party to message his fighting strength to the opponent. Experimental results show that asymmetric information increases conflict and induces bluffing: weak types frequently send messages overstating their strength and make high demands, to which opponents partially concede. Strong types sometimes feign weakness by understating their strength while maintaining high demands, drawing opponents into conflict; however, this strategy does not improve their payoffs. Overall, communication does not reduce conflict under asymmetric information. By contrast, under complete information, communication modestly improves coordination. These results delineate when strategic messages facilitate agreement and when they undermine bargaining efficiency."
 
 # Summary. An optional shortened abstract.
 

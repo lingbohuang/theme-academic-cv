@@ -6,7 +6,7 @@ authors:
 - Erte Xiao
 #author_notes:
 date: "2025-08-01T00:00:00Z"
-doi: ""
+doi: "10.1111/ecin.70019"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-02-08T00:00:00Z"

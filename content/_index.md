@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "Homepage | Lingbo Huang"
-date: 2022-10-24
+title: ""
+date: 2025-09-24
 type: landing
 
 design:

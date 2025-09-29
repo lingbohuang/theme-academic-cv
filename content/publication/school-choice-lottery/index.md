@@ -18,7 +18,7 @@ publication_types: ["manuscript"]
 publication: ""
 publication_short: ""
 
-abstract: "Lotteries are commonly employed in school choice to fairly resolve priority ties; however, current practices leave students uninformed about their lottery outcomes when submitting preferences. This paper advocates for revealing lottery results prior to preference submission. When preference lists are constrained in length, revealing lotteries can reduce uncertainties and enable informed decision-making regarding the selection of schools to rank. Through three stylized models, we demonstrate the benefits of lottery revelation in resolving conflicting preferences, equalizing opportunities among students with varying outside options, and alleviating the neighborhood school bias. Our findings are further supported by a laboratory experiment."
+abstract: "Lotteries are commonly employed in school choice to fairly resolve priority ties; however,current practices typically keep students uninformed about their lottery outcomes at the time of preference submission. This paper advocates for revealing lottery information to students beforehand. When preference lists are constrained in length, which is a common feature in real-world systems, such disclosure reduces uncertainty and enables students to make more informed decisions. We demonstrate the benefits of lottery revelation through two stylized models. Theoretical predictions are supported by laboratory experiments."
 
 # Summary. An optional shortened abstract.
 

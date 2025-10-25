@@ -34,7 +34,7 @@ links:
    url: "uploads/2025-unequal-opportunity-app.pdf"
 url_pdf: uploads/2025-unequal-opportunity.pdf
 url_code: ''
-url_dataset: 'uploads/2025-unequal-opportunity-software-data.zip'
+url_dataset: 'uploads/2025-unequal-opportunity-data.zip'
 url_poster: ''
 url_project: ''
 url_slides: ''

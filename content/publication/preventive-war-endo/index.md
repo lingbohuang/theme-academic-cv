@@ -28,8 +28,10 @@ tags:
 - Lab Experiment
 featured: false
 
-
-url_pdf: uploads/2025-preventive-war-endo.pdf
+links:
+ - name: "Appendix"
+   url: "uploads/2026-preventive-war-endo-app.pdf"
+url_pdf: uploads/2026-preventive-war-endo.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

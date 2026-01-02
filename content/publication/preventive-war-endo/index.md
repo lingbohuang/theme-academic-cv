@@ -33,7 +33,7 @@ links:
    url: "uploads/2026-preventive-war-endo-app.pdf"
 url_pdf: uploads/2026-preventive-war-endo.pdf
 url_code: ''
-url_dataset: ''
+url_dataset: 'uploads/2026-preventive-war-endo-software-data.zip'
 url_poster: ''
 url_project: ''
 url_slides: ''

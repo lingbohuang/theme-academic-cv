@@ -3,7 +3,7 @@ title: "Curtailed Ambition: Endogenous Power Shift and Preventive War"
 authors:
 - Lu Dong
 - admin
-date: "2025-11-01T00:00:00Z"
+date: "2026-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -12,11 +12,11 @@ publishDate: "2023-09-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["manuscript"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: "R&R *Journal of Economic Behavior & Organization*"
+publication: "*Journal of Economic Behavior & Organization*, in press"
+publication_short: ""
 
 abstract: "Preventive war arises from fears of future power shifts threatening the status quo. However, critics argue that since power shifts can be influenced by states' strategic decisions, preventive war can always be avoided. Using a lab experiment and a representative survey, this paper investigates how states' endogenous decisions affect the likelihood of conflict. We focus on two strategies: a containment policy, where rising states halt their own growth to prevent a power shift, and a commitment policy, where they make binding future offers without altering the power shift trajectory. Our findings show that while both policies reduce the likelihood of preventive war, containment is much less preferred than commitment. Additionally, declining states often resort to costly coercive containment measures rather than trusting the self-containment of rising states. In the representative survey, we pose conceptually similar questions to understand broader public opinions regarding international politics and find patterns that are consistent with the experimental results."
 

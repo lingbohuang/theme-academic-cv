@@ -34,7 +34,7 @@ links:
    url: "uploads/2023-preventive-war-app.pdf"
 url_pdf: uploads/2023-preventive-war.pdf
 url_code: ''
-url_dataset: ''
+url_dataset: 'uploads/2023-preventive-war-software-data.zip'
 url_poster: ''
 url_project: ''
 url_slides: ''

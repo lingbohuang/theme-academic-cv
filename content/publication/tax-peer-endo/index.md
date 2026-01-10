@@ -17,7 +17,7 @@ publishDate: "2023-02-08T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Economic Inquiry*, in press"
+publication: "*Economic Inquiry*, Volume 64, Issue 1, January 2026, 286-299"
 publication_short: ""
 abstract: "We examine how voters choose to influence others’ attitudes toward policy, focusing on the context of Pigouvian taxation. Data from a controlled laboratory experiment show that individuals are generally reluctant to stand up and persuade others. Among those who do, both tax supporters and objectors are equally likely to volunteer—and equally persuasive. As a result, overall negative attitudes toward Pigouvian taxes persist. Moreover, it is the strength of individuals’ initial views, rather than an informational advantage, that increases the likelihood of self-nomination as first voters, regardless of the direction of those views. These findings help explain the enduring lack of public support for welfare-enhancing tax policies and suggest avenues for addressing it."
 

@@ -15,7 +15,7 @@ publishDate: "2023-09-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Economic Behavior & Organization*, in press"
+publication: "*Journal of Economic Behavior & Organization*, Volume 242, February 2026, 107413"
 publication_short: ""
 
 abstract: "Preventive war arises from fears of future power shifts threatening the status quo. However, critics argue that since power shifts can be influenced by states' strategic decisions, preventive war can always be avoided. Using a lab experiment and a representative survey, this paper investigates how states' endogenous decisions affect the likelihood of conflict. We focus on two strategies: a containment policy, where rising states halt their own growth to prevent a power shift, and a commitment policy, where they make binding future offers without altering the power shift trajectory. Our findings show that while both policies reduce the likelihood of preventive war, containment is much less preferred than commitment. Additionally, declining states often resort to costly coercive containment measures rather than trusting the self-containment of rising states. In the representative survey, we pose conceptually similar questions to understand broader public opinions regarding international politics and find patterns that are consistent with the experimental results."

@@ -3,7 +3,7 @@ title: "Curtailed Ambition: Endogenous Power Shift and Preventive War"
 authors:
 - Lu Dong
 - admin
-date: "2026-01-01T00:00:00Z"
+date: "2026-02-01T00:00:00Z"
 doi: "10.1016/j.jebo.2026.107413"
 
 # Schedule page publish date (NOT publication's date).

@@ -4,7 +4,7 @@ authors:
 - admin
 - Jingjing Zhang
 - Jun Zhang
-date: "2025-10-01T00:00:00Z"
+date: "2026-02-04T00:00:00Z"
 doi: "10.1287/mnsc.2023.03580"
 
 # Schedule page publish date (NOT publication's date).

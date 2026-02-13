@@ -26,7 +26,7 @@ tags:
 - Public Goods
 - Lab Experiment
 - Cross-cultural
-featured: true
+featured: false
 
 links:
  - name: "Appendix"

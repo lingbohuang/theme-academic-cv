@@ -2,7 +2,7 @@
 title: "The private solution trap in collective action problems across 34 nations"
 authors:
 - Eugene Malthouse
-- 71 other coauthors including admin
+- 71 other coauthors including Lingbo Huang
 date: "2026-01-01T00:00:00Z"
 doi: ""
 

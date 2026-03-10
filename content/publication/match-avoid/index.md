@@ -5,7 +5,7 @@ authors:
 - Philip J. Grossman
 - admin
 - Erte Xiao
-date: "2024-04-01T00:00:00Z"
+date: "2026-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -14,10 +14,10 @@ publishDate: "2023-08-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["manuscript"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "R&R Economic Journal"
+publication: "*Economic Journal*, accepted"
 publication_short: ""
 
 abstract: "Economists usually endorse the efficacy of price mechanisms, such as matching subsidies, to foster philanthropic contributions. Our experiments, however, show that the match only increases donations when avoiding the ask is not possible. The data are consistent with a behavioral hypothesis of a ''norm-signaling mechanism'', positing that a match increases the psychological cost of deviating from the norm of giving but only when the ask cannot be avoided. We show that indeed, giving zero, but not avoiding the ask, is perceived as less socially desirable under a match. Our findings highlight the limits and potential welfare losses of matching subsidies."
@@ -29,10 +29,10 @@ tags:
 - Lab Experiment
 featured: false
 
-#links:
-# - name: "Appendix"
-#   url: "uploads/2023-judgmental-giving-app.pdf"
-url_pdf: uploads/.pdf
+links:
+ - name: "Appendix"
+   url: "uploads/2026-match-avoid-app.pdf"
+url_pdf: uploads/2026-match-avoid.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

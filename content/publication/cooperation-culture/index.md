@@ -3,11 +3,11 @@ title: "The Private Solution Trap in Collective Action Problems Across 34 Nation
 authors:
 - Eugene Malthouse
 - 71 other coauthors including Lingbo Huang
-date: "2026-02-01T00:00:00Z"
-doi: ""
+date: "2026-03-20T00:00:00Z"
+doi: "10.1073/pnas.2504632123"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-04-01T00:00:00Z"
+publishDate: "2026-03-20T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -15,10 +15,10 @@ publishDate: "2026-04-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Proceedings of the National Academy of Sciences*, in press"
+publication: "*Proceedings of the National Academy of Sciences*, 123(12), e2504632123"
 publication_short: ""
 
-abstract: "Collective action problems emerge when individual incentives and group interests are misaligned, as in the case of climate change. Individuals involved in these problems are generally considered to have two options: contribute towards public solutions such as global mitigation or free ride. However, many collective action problems today involve a third option of investing in a 'private solution' such as local adaptation. The availability of this third option can lead to a private solution trap whereby private solutions are adopted, collectively optimal public solutions are not provided, and existing inequalities are exacerbated. We investigated the private solution trap with a collective action game featuring private and public solutions, wealth inequality determined by luck or merit, and participants from 34 countries. We found that the joint existence of private solutions and wealth inequality had a consistent effect across countries: participants given a higher endowment adopted private solutions almost twice as often as those given a lower endowment, regardless of whether it was determined by luck or merit, and contributed proportionally less towards public solutions. Wealth inequality increased in every country and those with lower wealth were often left unprotected as public solutions were not provided. Across countries, cultural values of hierarchy and harmony were associated with preferences for private and public solutions, respectively. We also identified two universal pathways towards public solution provision: early contributions and conditional cooperation. Our findings highlight the ubiquity of the private solution trap, its cultural underpinnings, and its potential consequences for global collective action problems."
+abstract: "Collective action problems emerge when individual incentives and group interests are misaligned, as in the case of climate change. Individuals involved in these problems are generally considered to have two options: contribute toward public solutions such as global warming mitigation or free ride. However, many collective action problems today involve a third option of investing in a 'private solution' such as local adaptation. The availability of this third option can lead to a private solution trap whereby private solutions are adopted, collectively optimal public solutions are not provided, and existing inequalities are exacerbated. We investigated the private solution trap with a collective action game featuring private and public solutions, wealth inequality determined by luck or merit, and participants from 34 countries. We found that the joint existence of private solutions and wealth inequality had a consistent effect across countries: Participants given a higher endowment adopted private solutions almost twice as often as those given a lower endowment, regardless of whether it was determined by luck or merit, and contributed proportionally less toward public solutions. Wealth inequality increased in every country and those given lower endowments were often left unprotected as public solutions were not provided. Across countries, cultural values of hierarchy and harmony were associated with preferences for private and public solutions, respectively. We also identified two universal pathways toward public solution provision: early contributions and conditional cooperation. Our findings highlight the ubiquity of the private solution trap, its cultural underpinnings, and its potential consequences for global collective action problems."
 
 # Summary. An optional shortened abstract.
 

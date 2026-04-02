@@ -6,7 +6,7 @@ authors:
 - admin
 - Erte Xiao
 date: "2026-03-01T00:00:00Z"
-doi: ""
+doi: "10.1093/ej/ueag044"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-08-01T00:00:00Z"
@@ -17,7 +17,7 @@ publishDate: "2023-08-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Economic Journal*, accepted"
+publication: "*Economic Journal*, in press"
 publication_short: ""
 
 abstract: "Economists usually endorse the efficacy of price mechanisms, such as matching subsidies, to foster philanthropic contributions. Our experiments, however, show that the match only increases donations when avoiding the ask is not possible. The data are consistent with a behavioral hypothesis of a ''norm-signaling mechanism'', positing that a match increases the psychological cost of deviating from the norm of giving but only when the ask cannot be avoided. We show that indeed, giving zero, but not avoiding the ask, is perceived as less socially desirable under a match. Our findings highlight the limits and potential welfare losses of matching subsidies."

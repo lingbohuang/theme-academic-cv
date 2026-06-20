@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>2026-match-avoid-theory-appendix-red-edits</title>
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid #1a1a1a;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+  </style>
+  <script defer=""
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js"
+  type="text/javascript"></script>
+</head>
+<body>
+<h1 id="simple-theoretical-framework">1. Simple Theoretical
+Framework</h1>
+<p>Red text marks substantive edits or additions relative to the current
+appendix.</p>
+<p><span style="color: red;">This section extends the model in the main
+text from a binary “give versus give zero” decision to a setting in
+which the amount of out-of-pocket giving can vary. The extension shows
+that the norm-signalling mechanism generates the same qualitative
+prediction for both the frequency of giving and the amount given: a
+match increases giving when the ask cannot be avoided, but has no effect
+on giving in the Avoid condition in the norm-signalling
+benchmark.</span></p>
+<p>Consider an individual endowed with wealth <span
+class="math inline">\(w\)</span>, which can be allocated between private
+consumption and an out-of-pocket donation <span class="math inline">\(g
+\in [0,w]\)</span>. The individual’s utility has two components. The
+first component is consumption and altruistic utility, <span
+class="math display">\[
+v(g;a_i)=w-g+a_i u(g),
+\]</span> where <span class="math inline">\(a_i \geq 0\)</span> measures
+how much individual <span class="math inline">\(i\)</span> cares about
+the charity, <span class="math inline">\(u(0)=0\)</span>, <span
+class="math inline">\(u&#39;(g)&gt;0\)</span>, and <span
+class="math inline">\(u&#39;&#39;(g)&lt;0\)</span>. <span
+style="color: red;">In this benchmark, <span
+class="math inline">\(g\)</span> is the donor’s out-of-pocket gift. The
+model deliberately shuts down the standard price channel so that the
+match can affect behavior only through the norm-signalling
+channel.</span></p>
+<p>The second component is the psychological cost of falling short of
+the norm of giving. Let <span class="math inline">\(g^\ell \in
+(0,w]\)</span> denote the norm level: gifts at or above <span
+class="math inline">\(g^\ell\)</span> fully satisfy the norm. When the
+individual faces the ask, the psychological cost is <span
+class="math display">\[
+h_m(g;H_i)=\kappa_m H_i (g^\ell-g)_+,
+\]</span> where <span class="math inline">\((z)_+=\max\{z,0\}\)</span>,
+<span class="math inline">\(H_i \geq 0\)</span> is the individual’s
+sensitivity to the norm, <span class="math inline">\(\kappa_0=1\)</span>
+in the No Match condition, and <span
+class="math inline">\(\kappa_1=\gamma&gt;1\)</span> in the Match
+condition. <span style="color: red;">Thus, the match raises the
+psychological cost of giving less than the norm only when the ask is
+faced. This is the formal content of the norm-signalling
+mechanism.</span></p>
+<p>If the individual avoids the ask, no donation decision is presented
+and the individual receives <span
+class="math inline">\(v(0;a_i)=w\)</span>. If the individual does not
+avoid the ask, utility from giving <span
+class="math inline">\(g\)</span> in match condition <span
+class="math inline">\(m\in\{0,1\}\)</span> is <span
+class="math display">\[
+U_m(g;a_i,H_i)=w-g+a_i u(g)-\kappa_m H_i(g^\ell-g)_+.
+\]</span> <span style="color: red;">The timing is therefore simple. In
+the No Avoid condition, the individual chooses <span
+class="math inline">\(g\)</span>. In the Avoid condition, the individual
+first chooses whether to avoid the ask; conditional on not avoiding, the
+individual chooses <span class="math inline">\(g\)</span>. We solve the
+problem by backward induction.</span></p>
+<p><span style="color: red;">Two modelling choices keep the appendix
+parallel to the main text. First, the appendix is a norm-signalling
+benchmark: <span class="math inline">\(m\)</span> does not enter <span
+class="math inline">\(v(g;a_i)\)</span>. Second, to make the three-type
+classification exhaustive, assume that individuals who are not pure
+givers would give zero absent the psychological cost of violating the
+norm. Formally, for every individual either <span
+class="math inline">\(a_i u&#39;(g^\ell)&gt;1\)</span>, or <span
+class="math inline">\(a_i u&#39;(0)\leq 1\)</span>. This rules out
+intrinsic small donors who would give a positive amount below <span
+class="math inline">\(g^\ell\)</span> even with <span
+class="math inline">\(H_i=0\)</span>. Allowing such donors would not
+change the main Avoid versus No Avoid prediction for the frequency of
+giving; they can be grouped with always-givers for that
+purpose.</span></p>
+<h2 id="baseline-giving-and-type-classification">Baseline Giving and
+Type Classification</h2>
+<p>We first solve the No Avoid - No Match treatment. If <span
+class="math inline">\(g&lt;g^\ell\)</span>, the first-order condition is
+<span class="math display">\[
+a_i u&#39;(g)+H_i=1.
+\]</span> If <span class="math inline">\(g\geq g^\ell\)</span>, the
+psychological cost is zero and the marginal condition is <span
+class="math inline">\(a_i u&#39;(g)=1\)</span>. Hence an individual
+gives more than the norm level if <span class="math display">\[
+a_i u&#39;(g^\ell)&gt;1.
+\]</span> These individuals are pure givers: they care enough about the
+charity to give more than <span class="math inline">\(g^\ell\)</span>
+even without psychological pressure.</p>
+<p>For all other individuals, <span class="math inline">\(a_i
+u&#39;(0)\leq 1\)</span>. Define two thresholds: <span
+class="math display">\[
+H_i^L=1-a_i u&#39;(0), \qquad H_i^U=1-a_i u&#39;(g^\ell).
+\]</span> Since <span class="math inline">\(u&#39;\)</span> is
+decreasing, <span class="math inline">\(0\leq H_i^L&lt;H_i^U\)</span>.
+<span style="color: red;">We ignore knife-edge indifference cases, or
+equivalently assume that ties are resolved toward the lower gift and
+toward avoiding the ask.</span></p>
+<p>The remaining individuals fall into two groups.</p>
+<ul>
+<li>Pure givers satisfy <span class="math inline">\(a_i
+u&#39;(g^\ell)&gt;1\)</span>. They give <span
+class="math inline">\(g_i^*&gt;g^\ell\)</span> in the No Avoid - No
+Match treatment.</li>
+<li>Reluctant givers satisfy <span class="math inline">\(H_i^L &lt; H_i
+\leq H_i^U\)</span>. They do not care enough about the charity to give
+absent the norm, but the psychological cost of giving less than the norm
+induces them to give a positive amount <span
+class="math inline">\(0&lt;g_i^*\leq g^\ell\)</span>.</li>
+<li>Non-givers satisfy <span class="math inline">\(H_i\leq
+H_i^L\)</span>. Their norm cost is too small to induce giving, so they
+give zero in the No Avoid - No Match treatment.</li>
+</ul>
+<p><span style="color: red;">This classification preserves the intuition
+in the main text while making the threshold argument explicit. Pure
+givers give because of altruistic utility. Reluctant givers give because
+the norm cost makes giving zero unattractive. Non-givers give zero
+because both altruism and norm pressure are too weak.</span></p>
+<h2 id="matching-when-the-ask-cannot-be-avoided">Matching When the Ask
+Cannot Be Avoided</h2>
+<p>In the No Avoid - Match treatment, the match raises the psychological
+cost of giving less than <span class="math inline">\(g^\ell\)</span>
+from <span class="math inline">\(H_i(g^\ell-g)_+\)</span> to <span
+class="math inline">\(\gamma H_i(g^\ell-g)_+\)</span>. For gifts below
+the norm, the first-order condition becomes <span
+class="math display">\[
+a_i u&#39;(g)+\gamma H_i=1.
+\]</span> The relevant thresholds under the match are <span
+class="math display">\[
+H_i^{LM}=\frac{1-a_i u&#39;(0)}{\gamma}=\frac{H_i^L}{\gamma},
+\qquad
+H_i^{UM}=\frac{1-a_i u&#39;(g^\ell)}{\gamma}=\frac{H_i^U}{\gamma}.
+\]</span> Because <span class="math inline">\(\gamma&gt;1\)</span>, both
+thresholds are lower under the match.</p>
+<p>For reluctant givers, matching weakly increases the amount given. If
+<span class="math inline">\(H_i&gt;H_i^{UM}\)</span>, the reluctant
+giver is pushed to the norm and gives <span
+class="math inline">\(g^\ell\)</span>. If <span
+class="math inline">\(H_i^L &lt; H_i\leq H_i^{UM}\)</span>, the giver
+remains below the norm but gives more than in the No Match
+condition.</p>
+<p>For non-givers, matching can increase the frequency of giving.
+Non-givers with <span class="math inline">\(H_i^{LM} &lt; H_i\leq
+H_i^L\)</span> switch from giving zero to giving a positive amount.
+Non-givers with <span class="math inline">\(H_i\leq H_i^{LM}\)</span>
+continue to give zero. <span style="color: red;">Thus, the match raises
+the frequency of giving only if there is positive mass of non-givers
+close enough to the giving margin. It raises out-of-pocket giving
+through two margins: reluctant givers give more, and marginal non-givers
+begin to give.</span></p>
+<h2 id="matching-when-the-ask-can-be-avoided">Matching When the Ask Can
+Be Avoided</h2>
+<p>In the Avoid condition, the individual can avoid the ask and receive
+<span class="math inline">\(w\)</span>. Pure givers still choose to give
+because <span class="math inline">\(a_i u&#39;(g^\ell)&gt;1\)</span>
+implies that their preferred gift gives utility above <span
+class="math inline">\(w\)</span>. Reluctant givers and non-givers,
+however, weakly prefer avoiding the ask to facing it.</p>
+<p>For these individuals, <span class="math inline">\(a_i u&#39;(0)\leq
+1\)</span>, so absent the psychological cost they do not have an
+intrinsic reason to give. If they avoid the ask, they receive <span
+class="math inline">\(w\)</span> and incur no psychological cost. If
+they do not avoid, the best they can do is no better than <span
+class="math inline">\(w\)</span>, and usually strictly worse because
+they either give a costly positive amount or explicitly give zero while
+facing the psychological cost. <span style="color: red;">The statement
+is weak rather than strict because non-givers with <span
+class="math inline">\(H_i=0\)</span> may be indifferent between avoiding
+and explicitly giving zero. This tie does not affect effective giving,
+but it matters for claims about the frequency of skipping.</span></p>
+<p>Therefore, reluctant givers and non-givers give zero in the Avoid
+condition, regardless of whether a match is present. The match has no
+effect on their effective giving because avoiding the ask removes the
+psychological cost to which the match would otherwise add force.</p>
+<p><span style="color: red;">The following proposition summarizes the
+mechanism.</span></p>
+<p><strong>Proposition S1.</strong> <span style="color: red;">In the
+norm-signalling benchmark, matching weakly increases both the frequency
+of giving and average out-of-pocket giving in the No Avoid condition.
+The increase is strict if there is positive mass of non-givers with
+<span class="math inline">\(H_i^{LM} &lt; H_i\leq H_i^L\)</span> or
+reluctant givers whose giving rises under the match. In the Avoid
+condition, matching has no effect on effective giving by reluctant
+givers or non-givers, because they can avoid the ask and eliminate the
+psychological cost of not giving.</span></p>
+<p><span style="color: red;">The proposition also implies the frequency
+ranking used in the main text:</span> <span class="math display">\[
+\text{No Avoid - Match} \geq \text{No Avoid - No Match} \geq
+\text{Avoid - Match} = \text{Avoid - No Match}.
+\]</span></p>
+<h2 id="relation-to-the-standard-price-channel">Relation to the Standard
+Price Channel</h2>
+<p><span style="color: red;">The benchmark above abstracts from the
+effective price mechanism. If one wants to include that channel, the
+altruistic part of utility should depend on the total amount received by
+the charity rather than only on the donor’s out-of-pocket gift. For
+example, with a one-for-one match, the first utility component could be
+written as</span> <span class="math display">\[
+v_m(g;a_i)=w-g+a_i u((1+m)g).
+\]</span> <span style="color: red;">In that hybrid model, the match can
+increase giving even in the Avoid condition because a dollar of
+out-of-pocket giving produces more charitable output. The
+norm-signalling prediction would then be less extreme: the match should
+have a larger effect when the ask cannot be avoided than when it can be
+avoided, rather than exactly zero effect in the Avoid condition. The
+experimental results suggest that the norm-signalling channel dominates
+the standard price channel in this setting.</span></p>
+<h2 id="fig.-s1-decision-tree">Fig. S1: Decision Tree</h2>
+<p><span style="color: red;">The existing decision tree can be retained,
+but the note should be revised to match the notation above. Suggested
+note: An individual’s utility from giving <span
+class="math inline">\(g\)</span>, conditional on facing the ask, is
+<span class="math inline">\(U_m(g;a_i,H_i)=w-g+a_i u(g)-\kappa_m
+H_i(g^\ell-g)_+\)</span>, where <span
+class="math inline">\(\kappa_0=1\)</span> and <span
+class="math inline">\(\kappa_1=\gamma&gt;1\)</span>. If the individual
+avoids the ask, the payoff is <span class="math inline">\(w\)</span>.
+The psychological cost applies only when the ask is faced and the gift
+falls below the norm level <span
+class="math inline">\(g^\ell\)</span>.</span></p>
+<h2
+id="table-s1-predicted-giving-behavior-under-the-norm-signalling-benchmark">Table
+S1: Predicted Giving Behavior Under the Norm-Signalling Benchmark</h2>
+<table>
+<colgroup>
+<col style="width: 13%" />
+<col style="width: 13%" />
+<col style="width: 18%" />
+<col style="width: 18%" />
+<col style="width: 18%" />
+<col style="width: 18%" />
+</colgroup>
+<thead>
+<tr>
+<th>Type</th>
+<th>Condition</th>
+<th style="text-align: right;">No Avoid - No Match</th>
+<th style="text-align: right;">No Avoid - Match</th>
+<th style="text-align: right;">Avoid - No Match</th>
+<th style="text-align: right;">Avoid - Match</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pure givers</td>
+<td><span class="math inline">\(a_i u&#39;(g^\ell)&gt;1\)</span></td>
+<td style="text-align: right;"><span
+class="math inline">\(g_i^*&gt;g^\ell\)</span></td>
+<td style="text-align: right;"><span
+class="math inline">\(g_i^*&gt;g^\ell\)</span></td>
+<td style="text-align: right;"><span
+class="math inline">\(g_i^*&gt;g^\ell\)</span></td>
+<td style="text-align: right;"><span
+class="math inline">\(g_i^*&gt;g^\ell\)</span></td>
+</tr>
+<tr>
+<td>Reluctant givers</td>
+<td><span class="math inline">\(H_i^L &lt; H_i\leq H_i^U\)</span></td>
+<td style="text-align: right;"><span
+class="math inline">\(0&lt;g_i^*\leq g^\ell\)</span></td>
+<td style="text-align: right;"><span
+class="math inline">\(g_i^M=g^\ell\)</span> if <span
+class="math inline">\(H_i&gt;H_i^{UM}\)</span>; otherwise <span
+class="math inline">\(0&lt;g_i^M&lt;g^\ell\)</span> and <span
+class="math inline">\(g_i^M&gt;g_i^*\)</span></td>
+<td style="text-align: right;"><span class="math inline">\(0\)</span> by
+avoiding</td>
+<td style="text-align: right;"><span class="math inline">\(0\)</span> by
+avoiding</td>
+</tr>
+<tr>
+<td>Non-givers</td>
+<td><span class="math inline">\(H_i\leq H_i^L\)</span></td>
+<td style="text-align: right;"><span
+class="math inline">\(0\)</span></td>
+<td style="text-align: right;"><span
+class="math inline">\(0&lt;g_i^M&lt;g^\ell\)</span> if <span
+class="math inline">\(H_i^{LM} &lt; H_i\leq H_i^L\)</span>; otherwise
+<span class="math inline">\(0\)</span></td>
+<td style="text-align: right;"><span class="math inline">\(0\)</span> by
+avoiding or explicit zero</td>
+<td style="text-align: right;"><span class="math inline">\(0\)</span> by
+avoiding or explicit zero</td>
+</tr>
+</tbody>
+</table>
+<p>Notes: <span class="math inline">\(H_i^L=1-a_i u&#39;(0)\)</span>,
+<span class="math inline">\(H_i^U=1-a_i u&#39;(g^\ell)\)</span>, <span
+class="math inline">\(H_i^{LM}=H_i^L/\gamma\)</span>, and <span
+class="math inline">\(H_i^{UM}=H_i^U/\gamma\)</span>. The table uses the
+norm-signalling benchmark in which the match affects the psychological
+cost of giving below the norm but does not enter the
+consumption-altruism utility <span
+class="math inline">\(v(g;a_i)\)</span>. <span style="color: red;">The
+entries “by avoiding or explicit zero” reflect the tie case for
+non-givers with no psychological cost. The prediction for effective
+giving remains zero.</span></p>
+</body>
+</html>

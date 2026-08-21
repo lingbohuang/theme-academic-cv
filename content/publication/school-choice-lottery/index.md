@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["manuscript"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "R&R *Experimental Economics*"
 publication_short: ""
 
 abstract: "Lotteries are commonly employed in school choice to fairly resolve priority ties; however,current practices typically keep students uninformed about their lottery outcomes at the time of preference submission. This paper advocates for revealing lottery information to students beforehand. When preference lists are constrained in length, which is a common feature in real-world systems, such disclosure reduces uncertainty and enables students to make more informed decisions. We demonstrate the benefits of lottery revelation through two stylized models. Theoretical predictions are supported by laboratory experiments."

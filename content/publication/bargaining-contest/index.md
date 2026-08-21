@@ -1,5 +1,5 @@
 ---
-title: "Communication in Bargaining Under the Shadow of Conflict: An Experiment"
+title: "Bluffing and Feigning Weakness in Bargaining Under the Shadow of Conflict: An Experiment"
 authors:
 - Lu Dong
 - admin
@@ -16,10 +16,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["manuscript"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: "R&R *Games and Economic Behavior*"
+publication: "R&R *Games and Economic Behavior*"
+publication_short: ""
 
-abstract: "We experimentally study how pre-play communication shapes bargaining under the shadow of conflict. In a two-stage game that combines a Nash demand bargaining with a Tullock contest, we compare complete and asymmetric information settings and allow one party to message his fighting strength to the opponent. Experimental results show that asymmetric information increases conflict and induces bluffing: weak types frequently send messages overstating their strength and make high demands, to which opponents partially concede. Strong types sometimes feign weakness by understating their strength while maintaining high demands, drawing opponents into conflict; however, this strategy does not improve their payoffs. Overall, communication does not reduce conflict under asymmetric information. By contrast, under complete information, communication modestly improves coordination. These results delineate when strategic messages facilitate agreement and when they undermine bargaining efficiency."
+abstract: "We experimentally study bluffing and feigning weakness in a two-player bargaining game under the shadow of conflict. When one bargainer's fighting strength is private information, the theory identifies perfect Bayesian equilibria in which weak bargainers bluff through high demands or strong bargainers feign weakness through moderate demands. Subjects generally use both forms of strategic misrepresentation less often than predicted, and conflict rates across treatments reverse the equilibrium ordering. An one-way message about fighting strength from the informed bargainer does not significantly change bluffing or feigning through demands. However, type-misrepresenting messages are common, and their association with bargaining demands may reflect differential motives to either avoid or escalate conflict, albeit having no significant payoff consequences. A behavioral model combining the informed bargainer's reluctance to choose type-inconsistent demands with the link between the uninformed bargainer's demand and her conflict effort partially reproduces the quantitative patterns of bluffing and feigning weakness."
 
 # Summary. An optional shortened abstract.
 

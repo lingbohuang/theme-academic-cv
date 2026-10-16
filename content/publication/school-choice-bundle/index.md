@@ -18,7 +18,7 @@ publication_types: ["manuscript"]
 publication: ""
 publication_short: ""
 
-abstract: "This paper introduces a novel school choice system by incorporating school bundles into the standard framework. Schools are grouped into hierarchical bundles and offered to students as options for preference reports. By listing a bundle, a student seeks admission to any school within the bundle without ranking them. This approach addresses students' difficulty in forming precise preference rankings and expands the number of schools students can report on constrained preference lists, potentially enhancing their match likelihood and welfare. We develop a modified deferred acceptance mechanism that maintains stability while accommodating bundle reports. Laboratory experiments validate our theoretical findings, showing that well-designed bundles aligned with student preferences improve welfare and matching rates without compromising fairness. Practical applications are discussed."
+abstract: "This paper proposes a novel school choice system where schools are grouped into hierarchical bundles and offered to students as options for preference reports. By listing a bundle, a student seeks admission to any school within it without ranking the schools. This approach helps students who struggle to rank schools precisely and expands options on limited preference lists, potentially improving match outcomes. We design a modified deferred acceptance mechanism to handle bundle reports while preserving stability. Two laboratory experiments support our theory, showing that well-constructed bundles aligned with student preferences enhance welfare and match rates without compromising fairness. Practical applications are discussed."
 
 # Summary. An optional shortened abstract.
 
@@ -28,6 +28,9 @@ tags:
 - School Choice
 featured: false
 
+links:
+ - name: "arXiv"
+   url: "https://arxiv.org/abs/2501.04241"
 url_pdf: uploads/2025-school-choice-bundle.pdf
 url_code: ''
 url_dataset: ''

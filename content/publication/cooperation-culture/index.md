@@ -32,8 +32,8 @@ links:
  - name: "Appendix"
    url: "uploads/2026-cooperation-culture-app.pdf"
 url_pdf: uploads/2026-cooperation-culture.pdf
-url_code: ''
-url_dataset: ''
+url_code: 'https://osf.io/zg8nj/'
+url_dataset: 'https://osf.io/zg8nj/'
 url_poster: ''
 url_project: ''
 url_slides: ''

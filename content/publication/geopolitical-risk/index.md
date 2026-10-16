@@ -4,7 +4,7 @@ authors:
 - Lu Dong
 - admin
 date: "2025-07-01T00:00:00Z"
-doi: ""
+doi: "10.2139/ssrn.5714902"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -29,12 +29,15 @@ tags:
 featured: false
 
 
-url_pdf: uploads/.pdf
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
+links:
+ - name: "SSRN"
+   url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5714902"
 url_source: ''
 url_video: ''
 

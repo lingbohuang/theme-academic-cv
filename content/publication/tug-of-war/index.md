@@ -17,7 +17,7 @@ publishDate: "2023-02-08T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Evolutionary Psychological Science*, Volume 7, June 2021, 97-105"
+publication: "*Evolutionary Psychological Science*, Volume 7, Issue 2, June 2021, 97-105"
 publication_short: ""
 abstract: "To compete for power and resources, people form groups including political parties, special interest groups, and international coalitions. We use economic experiments to investigate how people balance the desire for their group’s victory versus their own expenditure of effort. We design an economic tug of war in which the side that exerts greater costly effort wins a prize. In Experiment 1, participants compete individually or in teams, which were assigned arbitrarily. In Experiment 2, participants compete individually or in teams based on political partisanship, Democrats against Republicans. In both experiments, participants shirked by exerting 20% less effort in teams than in individual competition. Moreover, we did not find an effect of partisan framing: Participants exerted no more effort on political teams than arbitrary teams, contrary to theories asserting the automatic potency of partisanship. We discuss why it is difficult for groups, including political partisans, to mobilize in competition."
 

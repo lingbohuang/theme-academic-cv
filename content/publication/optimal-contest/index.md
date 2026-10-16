@@ -4,7 +4,7 @@ authors:
 - admin
 - Jingjing Zhang
 - Jun Zhang
-date: "2026-02-04T00:00:00Z"
+date: "2026-10-01T00:00:00Z"
 doi: "10.1287/mnsc.2023.03580"
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Management Science*, in press"
+publication: "*Management Science*, 72(10), 8650–8666"
 publication_short: ""
 
 abstract: "This paper examines the optimal design of contests in the presence of negative prizes and establishes the optimality of a modified all-pay auction with entry fee and reserve. The entry fee always equals the contestants' liability, and the reserve is weakly higher than in contests without negative prizes. The modification involves awarding all contestants a strictly positive prize if none meet the reserve. This optimal contest better incentivizes high-ability contestants by offering them a higher prize augmented by entry fees, while still ensuring full participation from low-ability contestants. Theoretical analysis demonstrates that when contestants' liability is sufficiently high, the same contest maximizes both the expected total effort and winner's effort, with both measures increasing with liability. Numerical simulations show that even with low liability, predictions from the two optimal contests are closely aligned. To test these predictions, we conduct an experiment comparing optimal contests across different liability levels, confirming the ''killing-two-birds-with-one-stone'' prediction."

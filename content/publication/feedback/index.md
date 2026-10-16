@@ -1,5 +1,5 @@
 ---
-title: "Feedback Spillover Effects on Competitiveness across Unrelated Tasks"
+title: "Feedback Spillover Effect on Competitiveness Across Unrelated Tasks"
 authors:
 - admin
 - Zahra Murad

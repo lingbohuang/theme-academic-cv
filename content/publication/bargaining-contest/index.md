@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["manuscript"]
 
 # Publication name and optional abbreviated publication name.
-publication: "R&R *Games and Economic Behavior*"
+publication: ""
 publication_short: ""
 
 abstract: "We experimentally study bluffing and feigning weakness in a two-player bargaining game under the shadow of conflict. When one bargainer's fighting strength is private information, the theory identifies perfect Bayesian equilibria in which weak bargainers bluff through high demands or strong bargainers feign weakness through moderate demands. Subjects generally use both forms of strategic misrepresentation less often than predicted, and conflict rates across treatments reverse the equilibrium ordering. An one-way message about fighting strength from the informed bargainer does not significantly change bluffing or feigning through demands. However, type-misrepresenting messages are common, and their association with bargaining demands may reflect differential motives to either avoid or escalate conflict, albeit having no significant payoff consequences. A behavioral model combining the informed bargainer's reluctance to choose type-inconsistent demands with the link between the uninformed bargainer's demand and her conflict effort partially reproduces the quantitative patterns of bluffing and feigning weakness."
